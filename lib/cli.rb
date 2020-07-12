@@ -1,4 +1,4 @@
-class Netflix_Mustwatch::CLI 
+class CLI 
     
     def start
         puts "Hello!"
