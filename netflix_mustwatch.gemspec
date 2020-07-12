@@ -30,11 +30,11 @@ Gem::Specification.new do |spec|
 
 
  
-  spec.add_development_dependency "bundler"
-  spec.add_development_dependency "rake"
-  spec.add_development_dependency "rspec", "~> 3.0"
-  spec.add_development_dependency "pry"
-  spec.add_development_dependency "nokogiri"
+  # spec.add_development_dependency "bundler"
+  # spec.add_development_dependency "rake"
+  # spec.add_development_dependency "rspec", "~> 3.0"
+  # spec.add_development_dependency "pry"
+  # spec.add_development_dependency "nokogiri"
 
 
   #list require gems below, here are some examples. (source CLI project buid part 1 Jennifer Hansen)
