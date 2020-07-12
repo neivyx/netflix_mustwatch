@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require_relative "..lib/netflix_mustwatch/environment"
+
+CLI.new.start
+
+#require_relative is relative to that project, can find it in that directory.
+#require usually used for gems 
